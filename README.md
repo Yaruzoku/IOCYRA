@@ -1,8 +1,8 @@
-# Maltrace
+# Iocyra
 
 A lightweight Discord security bot for quick malware and threat-intelligence triage.
 
-Maltrace is designed to make basic security analysis accessible directly through Discord. It can be used to investigate suspicious files, URLs, hashes, and other indicators without requiring users to install or run analysis tools themselves.
+Iocyra is designed to make basic security analysis accessible directly through Discord. It can be used to investigate suspicious files, URLs, hashes, and other indicators without requiring users to install or run analysis tools themselves.
 
 ## Planned Features
 
@@ -18,7 +18,7 @@ Maltrace is designed to make basic security analysis accessible directly through
 
 🚧 **In development**
 
-Maltrace is currently under active development. Features and functionality may change as the project evolves.
+Iocyra is currently under active development. Features and functionality may change as the project evolves.
 
 ## Planned Analysis
 
@@ -31,4 +31,4 @@ The goal is to combine several lightweight analysis techniques into a single Dis
 
 ## License
 
-shrugs ill edit this shit later
+shrugs ill edit this shit later meow
