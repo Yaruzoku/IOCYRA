@@ -2,7 +2,7 @@
 
 Discord security bot for quick malware and threat-intelligence triage.
 
-IOCYRA is designed to make basic security analysis accessible directly through Discord. It can be used to investigate suspicious files, URLs, hashes, and other indicators without requiring users to install or run analysis tools themselves.
+Witht the increasing amount of infostealers being sent on online platfors, such as Discord, IOCYRA is designed to make basic security analysis accessible directly through Discord for everyday users. It can be used to investigate suspicious files, URLs, hashes, and other indicators without requiring users to install or run analysis tools themselves.
 
 ## Planned Features
 
@@ -18,16 +18,16 @@ IOCYRA is designed to make basic security analysis accessible directly through D
 
 🚧 **In development**
 
-Iocyra is currently under active development. Features and functionality may change as the project evolves.
+IOCYRA is currently under active development. Features and functionality may change as the project evolves.
 
 ## Planned Analysis
 
 The goal is to combine several lightweight analysis techniques into a single Discord-based tool:
 
 * **VirusTotal** — threat intelligence and detection results
-* **YARA** — custom rule-based detection
+* **YARA** — custom rule-based detection when tf did I add yara lmao
 * **Hashing** — SHA-256 and other file hashes
-* **Static analysis** — basic file information and indicators
+* **Static analysis** — basic file information and indicators 
 
 ## License
 
