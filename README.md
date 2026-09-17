@@ -1,8 +1,8 @@
-# Iocyra
+# IOCYRA
 
-A lightweight Discord security bot for quick malware and threat-intelligence triage.
+Discord security bot for quick malware and threat-intelligence triage.
 
-Iocyra is designed to make basic security analysis accessible directly through Discord. It can be used to investigate suspicious files, URLs, hashes, and other indicators without requiring users to install or run analysis tools themselves.
+IOCYRA is designed to make basic security analysis accessible directly through Discord. It can be used to investigate suspicious files, URLs, hashes, and other indicators without requiring users to install or run analysis tools themselves.
 
 ## Planned Features
 
@@ -31,4 +31,4 @@ The goal is to combine several lightweight analysis techniques into a single Dis
 
 ## License
 
-shrugs ill edit this shit later meow
+shrugs ill edit this shit later meow meow
