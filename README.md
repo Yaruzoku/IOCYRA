@@ -1,4 +1,4 @@
-## 🚧 In developmnent. Code is currently released only for portfolio purposes and the bot is currently unable to run as intended
+## 🚧 In developmnent. Code is currently released only for portfolio purposes 
 
 # IOCYRA
 Discord security bot for quick malware and threat-intelligence triage.
